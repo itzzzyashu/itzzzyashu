@@ -7,5 +7,5 @@
 #
 <span>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzzzyashu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itzzzyashu&hide=stars&show_icons=true&bg_color=0,255,0&title_color=fff&text_color=fff&count_private=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itzzzyashu&hide=stars&show_icons=true&bg_color=#fff&title_color=fff&text_color=fff&count_private=true">
 </span>
