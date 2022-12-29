@@ -18,5 +18,4 @@ Hey, I'm Yash Virmani, a Web Developer 🚀, Back End Developer & Telegram Bot D
 ### Social Platforms
 
 #
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzzzyashu&bg_color=6f00fe,ff0000,6f00fe&title_color=fff&text_color=fff&count_private=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=itzzzyashu&hide=stars&show_icons=true&icon_color=fff&bg_color=6f00fe,6f00fe,ff0000&title_color=fff&text_color=fff&count_private=true">
