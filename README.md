@@ -10,7 +10,7 @@ Hey, I'm Yash Virmani, from India 🇮🇳
 
 ➢ I’m currently learning React.JS, Python and Java etc
 
-➢ Contact me at : itzzzyashu@gmail.com.
+➢ Email me at : itzzzyashu@gmail.com.
 
 ➢ Pronouns : He/Him.
 
