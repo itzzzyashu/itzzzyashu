@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="left"><b>Hi , I'm Yash, From India </b><img src="https://media.tenor.com/FKqQdNFwBu8AAAAC/flames-flaming.gif" width="35"></h1>
 
 ## Programming Languages.
 <img width="1000" hieght="1000" align="center" src="https://te.legra.ph/file/913cc634f84d32e32fde9.jpg" />
