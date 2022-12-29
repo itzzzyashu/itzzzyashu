@@ -7,8 +7,11 @@ Hey, I'm Yash Virmani, a Web Developer 🚀, Back End Developer & Telegram Bot D
 ### About Me:
 
 ➢ I’m currently working on Open Source Projects, Website, API and Telegram Bots.
+
 ➢ I’m currently learning React.JS, Python and Java etc
+
 ➢ Contact me at : itzzzyashu@gmail.com.
+
 ➢ Pronouns : He/Him.
 
 #
