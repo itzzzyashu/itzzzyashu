@@ -4,4 +4,8 @@
 
 <img width="1000" hieght="1000" align="center" src="https://te.legra.ph/file/913cc634f84d32e32fde9.jpg" />
 
-### 
+#
+<span>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzzzyashu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzzzyashu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
+</span>
