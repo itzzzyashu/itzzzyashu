@@ -15,6 +15,16 @@ Hey, I'm Yash Virmani, a Web Developer 🚀, Back End Developer & Telegram Bot D
 
 #
 ### Social Platforms
-
+https://www.facebook.com/Itzzzyashu/
+https://www.instagram.com/Itzzzyashu/
+https://www.twitter.com/Itzzzyashu/
+https://telegram.me/Itzzzyashu/
+https://m.me/Itzzzyashu/
+https://www.quora.com/profile/Itzzzyashu/
+https://www.reddit.com/user/Itzzzyashu/
+https://www.facebook.com/Itzzzyashu/
+https://www.youtube.com/@Itzzzyashu/
+https://www.pinterest.com/aleciento/
+https://www.tiktok.com/@Itzzzyashu1/
 #
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=itzzzyashu&hide=stars&show_icons=true&icon_color=fff&bg_color=6f00fe,6f00fe,ff0000&title_color=fff&text_color=fff&count_private=true">
