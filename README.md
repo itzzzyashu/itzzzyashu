@@ -3,6 +3,7 @@ Hey, I'm Yash Virmani, a Web Developer 🚀, Back End Developer & Telegram Bot D
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Odin+Rounded&weight=100&size=15&duration=2000&pause=250&color=00F726&vCenter=true&width=700&height=40&lines=I'm+into+these+programming+languages.;Java%2C+Python%2C+HTML%2C+CSS%2C+Javascript;Web+and+Android+App+Development;Computer+Software+Programming+and+more.)](github.com/itzzzyashu)
 
+#
 ### About Me:
 
 ➢ I’m currently working on Open Source Projects, Website, API and Telegram Bots.
