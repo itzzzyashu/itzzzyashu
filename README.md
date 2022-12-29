@@ -16,14 +16,14 @@ Hey, I'm Yash Virmani, a Web Developer 🚀, Back End Developer & Telegram Bot D
 #
 ### Social Platforms
 
-[Facebook](https://www.facebook.com/Itzzzyashu/)
-[Instagram](https://www.instagram.com/Itzzzyashu/)
-[Twitter](https://www.twitter.com/Itzzzyashu/)
-[Telegram](https://telegram.me/Itzzzyashu/)
-[Quora](https://www.quora.com/profile/Itzzzyashu/)
-[Reddit](https://www.reddit.com/user/Itzzzyashu/)
-[Youtube](https://www.youtube.com/@Itzzzyashu/)
-[Pinterest](https://www.pinterest.com/aleciento/)
+* [Facebook](https://www.facebook.com/Itzzzyashu/)
+* [Instagram](https://www.instagram.com/Itzzzyashu/)
+* [Twitter](https://www.twitter.com/Itzzzyashu/)
+* [Telegram](https://telegram.me/Itzzzyashu/)
+* [Quora](https://www.quora.com/profile/Itzzzyashu/)
+* [Reddit](https://www.reddit.com/user/Itzzzyashu/)
+* [Youtube](https://www.youtube.com/@Itzzzyashu/)
+* [Pinterest](https://www.pinterest.com/aleciento/)
 
 #
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=itzzzyashu&hide=stars&show_icons=true&icon_color=fff&bg_color=6f00fe,6f00fe,ff0000&title_color=fff&text_color=fff&count_private=true">
