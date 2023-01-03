@@ -18,5 +18,20 @@ Hey, I'm Yash Virmani, from India 🇮🇳
 | [Quora](https://www.quora.com/profile/Itzzzyashu/) | [Reddit](https://www.reddit.com/user/Itzzzyashu/) |
 | [Youtube](https://www.youtube.com/@Itzzzyashu/) | [Pinterest](https://www.pinterest.com/aleciento/) |
 
+<table>
+  <tr>
+    <td> Facebook </td>
+    <td> Twitter </td>
+    <td> Quora </td>
+    <td> Youtube </td>
+  </tr>
+  <tr>
+    <td> Instagram </td>
+    <td> Telegram </td>
+    <td> Reddit </td>
+    <td> Reddit </td>
+  </tr>
+</table>
+
 #
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=itzzzyashu&hide=stars&show_icons=true&icon_color=fff&bg_color=6f00fe,6f00fe,ff0000&title_color=fff&text_color=fff&count_private=true">
