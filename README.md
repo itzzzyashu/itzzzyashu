@@ -17,7 +17,7 @@ Hey, I'm Yash Virmani, from India 🇮🇳
 <details>
 <summary>➢ Social Platforms</summary>
 ---
-name: ➢ [Facebook](https://www.facebook.com/Itzzzyashu/) | ➢ [Instagram](https://www.instagram.com/Itzzzyashu/)
+name: ok
 about: Create a report to help us improve
 title: "[BUG]"
 labels: 'bug :bug:'
