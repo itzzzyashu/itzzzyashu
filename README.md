@@ -7,7 +7,7 @@ Hey, I'm Yash Virmani, from India 🇮🇳
 ### About Me:
 ➢ I’m currently working on Open Source Projects, Website, API and Telegram Bots.
 
-➢ I’m currently learning React.JS, Python and Java etc
+➢ I’m currently learning React.JS, Next.JS, Python and Java etc
 
 ➢ Email me at : itzzzyashu@gmail.com.
 
