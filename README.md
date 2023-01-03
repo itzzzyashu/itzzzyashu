@@ -17,7 +17,7 @@ Hey, I'm Yash Virmani, from India 🇮🇳
 <details>
 <summary>➢ Social Platforms</summary>
 
-<!-- | Links                                                 | Links                                                 | -->
+|                                                       |                                                       |
 ------------------------------------------------------- | ----------------------------------------------------- |
 | ➢ [Facebook](https://www.facebook.com/Itzzzyashu/)   | ➢ [Instagram](https://www.instagram.com/Itzzzyashu/)  |
 | ➢ [Twitter](https://www.twitter.com/Itzzzyashu/)     | ➢ [Telegram](https://telegram.me/Itzzzyashu/)         |
