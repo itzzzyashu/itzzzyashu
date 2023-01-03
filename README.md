@@ -11,25 +11,18 @@ Hey, I'm Yash Virmani, from India 🇮🇳
 ➢ Pronouns : He/Him.
 
 ### ➢ Social Platforms</summary>
-|  |  |
-| :--- | :--- |
-| [Facebook](https://www.facebook.com/Itzzzyashu/) | [Instagram](https://www.instagram.com/Itzzzyashu/) |
-| [Twitter](https://www.twitter.com/Itzzzyashu/) | [Telegram](https://telegram.me/Itzzzyashu/) |
-| [Quora](https://www.quora.com/profile/Itzzzyashu/) | [Reddit](https://www.reddit.com/user/Itzzzyashu/) |
-| [Youtube](https://www.youtube.com/@Itzzzyashu/) | [Pinterest](https://www.pinterest.com/aleciento/) |
-
 <table>
   <tr>
-    <td><a> Facebook </a></td>
-    <td><a> Twitter </a></td>
-    <td><a> Quora </a></td>
-    <td><a> Youtube </a></td>
+    <td><a href="https://www.facebook.com/Itzzzyashu/"> Facebook </a></td>
+    <td><a href="https://www.instagram.com/Itzzzyashu/"> Instagram </a></td>
+    <td><a href="https://www.twitter.com/Itzzzyashu/"> Twitter </a></td>
+    <td><a href="https://telegram.me/Itzzzyashu/"> Telegram </a></td>
   </tr>
   <tr>
-    <td><a> Instagram </a></td>
-    <td><a> Telegram </a></td>
-    <td><a> Reddit </a></td>
-    <td><a> Pinterest </a></td>
+    <td><a href="https://www.quora.com/profile/Itzzzyashu/"> Quora </a></td>
+    <td><a href="https://www.reddit.com/user/Itzzzyashu/"> Reddit </a></td>
+    <td><a href="https://www.youtube.com/@Itzzzyashu"> Youtube </a></td>
+    <td><a href="https://www.pinterest.com/aleciento/"> Pinterest </a></td>
   </tr>
 </table>
 
