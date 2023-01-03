@@ -23,6 +23,12 @@ Hey, I'm Yash Virmani, from India 🇮🇳
 ➢ [Youtube](https://www.youtube.com/@Itzzzyashu/) | ➢ [Pinterest](https://www.pinterest.com/aleciento/)
   
 </details>
-
+---
+name: Bug
+about: Create a report to help us improve
+title: "[BUG]"
+labels: 'bug :bug:'
+assignees: ''
+---
 #
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=itzzzyashu&hide=stars&show_icons=true&icon_color=fff&bg_color=6f00fe,6f00fe,ff0000&title_color=fff&text_color=fff&count_private=true">
