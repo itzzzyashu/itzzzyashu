@@ -20,16 +20,16 @@ Hey, I'm Yash Virmani, from India 🇮🇳
 
 <table>
   <tr>
-    <td> Facebook </td>
-    <td> Twitter </td>
-    <td> Quora </td>
-    <td> Youtube </td>
+    <td><a> Facebook </a></td>
+    <td><a> Twitter </a></td>
+    <td><a> Quora </a></td>
+    <td><a> Youtube </a></td>
   </tr>
   <tr>
-    <td> Instagram </td>
-    <td> Telegram </td>
-    <td> Reddit </td>
-    <td> Reddit </td>
+    <td><a> Instagram </a></td>
+    <td><a> Telegram </a></td>
+    <td><a> Reddit </a></td>
+    <td><a> Pinterest </a></td>
   </tr>
 </table>
 
