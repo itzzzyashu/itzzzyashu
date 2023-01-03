@@ -6,8 +6,11 @@ Hey, I'm Yash Virmani, from India 🇮🇳
 #
 ### About Me:
 ➢ I’m currently working on Open Source Projects, Website, API and Telegram Bots.
+
 ➢ I’m currently learning React.JS, Python and Java etc
+
 ➢ Email me at : itzzzyashu@gmail.com.
+
 ➢ Pronouns : He/Him.
 
 ### ➢ Social Platforms</summary>
