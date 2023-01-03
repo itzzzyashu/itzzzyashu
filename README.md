@@ -13,7 +13,7 @@ Hey, I'm Yash Virmani, from India 🇮🇳
 ### ➢ Social Platforms</summary>
 <table>
   <tr>
-    <td><a href="https://www.facebook.com/Itzzzyashu/"> Facebook </a></td>
+    <td><a href="https://www.facebook.com/Itzzzyashu/"><b> Facebook </b></a></td>
     <td><a href="https://www.instagram.com/Itzzzyashu/"> Instagram </a></td>
     <td><a href="https://www.twitter.com/Itzzzyashu/"> Twitter </a></td>
     <td><a href="https://telegram.me/Itzzzyashu/"> Telegram </a></td>
