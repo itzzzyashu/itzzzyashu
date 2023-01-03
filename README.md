@@ -17,20 +17,14 @@ Hey, I'm Yash Virmani, from India 🇮🇳
 <details>
 <summary>➢ Social Platforms</summary>
 
-➢ [Facebook](https://www.facebook.com/Itzzzyashu/) | ➢ [Instagram](https://www.instagram.com/Itzzzyashu/)
-➢ [Twitter](https://www.twitter.com/Itzzzyashu/) | ➢ [Telegram](https://telegram.me/Itzzzyashu/)
-➢ [Quora](https://www.quora.com/profile/Itzzzyashu/) | ➢ [Reddit](https://www.reddit.com/user/Itzzzyashu/)
-➢ [Youtube](https://www.youtube.com/@Itzzzyashu/) | ➢ [Pinterest](https://www.pinterest.com/aleciento/)
+| Links                                                 | Links                                                 |
+------------------------------------------------------- | ----------------------------------------------------- |
+| ➢ [Facebook](https://www.facebook.com/Itzzzyashu/)   | ➢ [Instagram](https://www.instagram.com/Itzzzyashu/)  |
+| ➢ [Twitter](https://www.twitter.com/Itzzzyashu/)     | ➢ [Telegram](https://telegram.me/Itzzzyashu/)         |
+| ➢ [Quora](https://www.quora.com/profile/Itzzzyashu/) | ➢ [Reddit](https://www.reddit.com/user/Itzzzyashu/)   |
+| ➢ [Youtube](https://www.youtube.com/@Itzzzyashu/)    | ➢ [Pinterest](https://www.pinterest.com/aleciento/)   |
   
 </details>
-
----
-name: Bug
-about: Create a report to help us improve
-title: "[BUG]"
-labels: 'bug :bug:'
-assignees: ''
----
 
 #
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=itzzzyashu&hide=stars&show_icons=true&icon_color=fff&bg_color=6f00fe,6f00fe,ff0000&title_color=fff&text_color=fff&count_private=true">
