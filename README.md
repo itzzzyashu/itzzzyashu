@@ -11,7 +11,7 @@ Hey, I'm Yash Virmani, from India 🇮🇳
 ➢ Pronouns : He/Him.
 
 ### ➢ Social Platforms</summary>
-|                                                       |                                                       |
+|                                                      Social Links                                                      |
 | :--- | :--- |
 | [Facebook](https://www.facebook.com/Itzzzyashu/) | [Instagram](https://www.instagram.com/Itzzzyashu/) |
 | [Twitter](https://www.twitter.com/Itzzzyashu/) | [Telegram](https://telegram.me/Itzzzyashu/) |
