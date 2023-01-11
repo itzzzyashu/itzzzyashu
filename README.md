@@ -17,12 +17,16 @@ Hey, I'm Yash Virmani, from India 🇮🇳
   <tr>
     <td><a href="https://www.facebook.com/Itzzzyashu/"><b> Facebook </b></a></td>
     <td><a href="https://www.instagram.com/Itzzzyashu/"><b> Instagram </a></td>
+  </tr>
+  <tr>
     <td><a href="https://www.twitter.com/Itzzzyashu/"><b> Twitter </a></td>
     <td><a href="https://telegram.me/Itzzzyashu/"><b> Telegram </a></td>
   </tr>
   <tr>
     <td><a href="https://www.quora.com/profile/Itzzzyashu/"><b> Quora </b></a></td>
     <td><a href="https://www.reddit.com/user/Itzzzyashu/"><b> Reddit </b></a></td>
+  </tr>
+  <tr>
     <td><a href="https://www.youtube.com/@Itzzzyashu"><b> Youtube </b></a></td>
     <td><a href="https://www.pinterest.com/aleciento/"><b> Pinterest </b></a></td>
   </tr>
