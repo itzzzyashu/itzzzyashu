@@ -1,7 +1,7 @@
 # Hii, I'm itzzzyashu ✌🏻
 Hey, I'm Yash Virmani, from India 🇮🇳
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Odin+Rounded&weight=100&size=20&duration=2000&pause=250&color=00FFFF&vCenter=true&width=700&height=40&lines=I'm+into+these+programming+languages.;Java%2C+Python%2C+HTML%2C+CSS%2C+Javascript;Web+and+Android+App+Development;Computer+Software+Programming+and+more.)](https://github.com/itzzzyashu)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Odin+Rounded&weight=100&size=20&duration=2000&pause=250&color=5D3FD3&vCenter=true&width=700&height=40&lines=I'm+into+these+programming+languages.;Java%2C+Python%2C+HTML%2C+CSS%2C+Javascript;Web+and+Android+App+Development;Computer+Software+Programming+and+more.)](https://github.com/itzzzyashu)
 
 ### ➢ About Me:
 ➢ I’m currently working on Open Source Projects, Website, API and Telegram Bots.
