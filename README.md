@@ -12,7 +12,8 @@ Hey, I'm Yash Virmani, from India 🇮🇳
 
 ➢ Pronouns : He/Him.
 
-### ➢ Social Platforms</summary>
+<details>
+<summary> ➢ Social Platforms </summary>
 <table>
   <tr>
     <td><a href="https://www.facebook.com/Itzzzyashu/"><b> Facebook </b></a></td>
@@ -31,6 +32,8 @@ Hey, I'm Yash Virmani, from India 🇮🇳
     <td><a href="https://www.pinterest.com/aleciento/"><b> Pinterest </b></a></td>
   </tr>
 </table>
+</details>
 
+  
 #
 <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=itzzzyashu&hide=stars&show_icons=true&icon_color=fff&bg_color=6f00fe,6f00fe,ff0000&title_color=fff&text_color=fff&count_private=true">
