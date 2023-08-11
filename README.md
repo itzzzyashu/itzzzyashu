@@ -22,7 +22,7 @@ Hey, I'm Yash Virmani, from India 🇮🇳
   </tr>
   <tr>
     <td><a href="https://www.twitter.com/Itzzzyashu/"><b> Twitter </a></td>
-    <td><a href="https://telegram.me/Itzzzyashu/"><b> Telegram </a></td>
+    <td><a href="https://telegram.me/ikeshavvirmani/"><b> Telegram </a></td>
   </tr>
   <tr>
     <td><a href="https://www.quora.com/profile/Itzzzyashu/"><b> Quora </b></a></td>
