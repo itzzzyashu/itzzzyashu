@@ -1,38 +1,52 @@
 {
-   "name":"Yash Virmani",
-   "username":"itzzzyashu",
-   "email":"itzzzyashu@gmail.com",
-   "about":"“What you perceive through the senses is an illusion which you're programmed to perceive as reality. 🥀”/n/n
+   "name": "Yash Virmani",
+   "username": "itzzzyashu",
+   "email": "itzzzyashu@gmail.com",
+   "about": "“What you perceive through the senses is an illusion which you're programmed to perceive as reality. 🥀”/n/n
 INFJ-T • EII-Ne | 4w5 • 459 • sp/sx/n
 Phobic (Acro • Philo) | Phile (🐈‍⬛ • 🖤 • 🌘)/n
 ♒ • ♅ • Σ | 🦚(⚛ > ॐ)/n
 🏳️‍🌈[♂ • ⚣ •💃🏻] | 🫂[♂/♀ • ❤️‍🔥 • 🧠]",
-   "pfppic":"https://graph.org/file/ffcbb972a711603c10041.jpg",
-   "website":"https://itzzzyashu.vercel.app",
-   "age":17,
+   "pfppic": "https://graph.org/file/ffcbb972a711603c10041.jpg",
+   "website": "https://itzzzyashu.vercel.app",
+   "dateOfBirth": {
+      "day":" Tuesday",
+      "date": 28,
+      "month": 02,
+      "year": 2006,
+   },
+   "Address": "Turner Road, Subhash Nagar",
+   "Location": {
+      "District": "Dehradun",
+      "State": "Uttrakhand",
+      "Country": "India",
+      "AreaPinCode": 248002,
+      "CountryCode": "IN",
+      "CountryPhoneCode": 91
+   },
    "PersonalityType": {
       "MBTI": {
-         "Type":"INFJ",
-         "Socionics":"EII"
+         "Type": "INFJ",
+         "Socionics": "EII"
       },
       "Enneagram": {
-         "CoreType":4,
-         "Wing":5,
-         "InstinctualVarient":"SP/SX/SO",
-         "TriType":459
+         "CoreType": 4,
+         "Wing": 5,
+         "InstinctualVarient": "SP/SX/SO",
+         "TriType": 459
        },
-       "Astrology":"Aquarius"
+       "Astrology": "Aquarius"
      },
    "Gender": {
       "Identity": {
-         "BirthAssigned":"Male",
-         "SelfAssigned":"Male"
+         "BirthAssigned": "Male",
+         "SelfAssigned": "Male"
       },
-      "Expression":"Feminine"
+      "Expression": "Feminine"
    },
    "Orientation": {
-      "Sexual":"Homosexual",
-      "Romantic":"Biromantic",
+      "Sexual": "Homosexual",
+      "Romantic": "Biromantic",
       "Intimacy": {
          "Sexual": [
             "Demisexual",
@@ -56,7 +70,37 @@ Phobic (Acro • Philo) | Phile (🐈‍⬛ • 🖤 • 🌘)/n
       "Gemophobic"
    ],
    "Religion": {
-      "BirthAssigned":"Hinduism",
-      "Followed":"Atheism"
+      "BirthAssigned": "Hinduism",
+      "Followed": "Atheism"
+   },
+   "Education": {
+      "School": [
+         "Lovedale Academy",
+         "Shree Badrinath Inter College (SBN Academy)"
+      ],
+      "College": "Atheism",
+      "MainSubject": "Science",
+      "SecondarySubject":"Computer Applications",
+      "Course":"BCA & MCA",
+      "Ambition":"Application Software Developer / Cyber Security",
+      "Professions": {
+         "MainFocus": [
+            "Computer Applications",
+            "Cyber Security"
+          ],
+          "SecondShift": [
+            "Psychotherapist",
+            "Psychiatrist"
+          ],
+      }
+      "Hobbies": [
+         "Programming",
+         "Chess",
+         "Mathematics",
+         "Journaling",
+         "Theory Writing, Studying",
+         "Literature",
+         "Music",
+      ],
    }
 }
