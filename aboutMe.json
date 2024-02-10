@@ -28,40 +28,40 @@ Phobic (Acro • Philo) | Phile (🐈‍⬛ • 🖤 • 🌘)
        },
        "Astrology":"Aquarius"
      },
-     "Gender": {
-        "Identity": {
-           "BirthAssigned":"Male",
-           "SelfAssigned":"Male"
-        },
-        "Expression":"Feminine"
-     },
-     "Orientation": {
-        "Sexual":"Homosexual",
-        "Romantic":"Biromantic",
-           "Intimacy": {
-              "Sexual": [
-                 "Demisexual",
-                 "Sapiosexual",
-                 "Hypersexual"
-              ],
-              "Romantic": [
-                 "Demiromantic",
-                 "Sapioromantic"
-           ]
-        }
-     },
-     "Phile": [
-           "Ailurophile",
-           "Selenophile",
-           "Nyctophile"
-        ],
-     "Phobic": [
-           "Acrophobic",
-           "Philophobic",
-           "Gemophobic"
-        ],
-        "Religion": {
-           "BirthAssigned":"Hinduism",
-           "Followed":"Atheism"
-        }
+   "Gender": {
+      "Identity": {
+         "BirthAssigned":"Male",
+         "SelfAssigned":"Male"
+      },
+      "Expression":"Feminine"
+   },
+   "Orientation": {
+      "Sexual":"Homosexual",
+      "Romantic":"Biromantic",
+         "Intimacy": {
+         "Sexual": [
+            "Demisexual",
+            "Sapiosexual",
+            "Hypersexual"
+         ],
+         "Romantic": [
+            "Demiromantic",
+            "Sapioromantic"
+         ]
+      }
+   },
+   "Phile": [
+      "Ailurophile",
+      "Selenophile",
+      "Nyctophile"
+   ],
+   "Phobic": [
+      "Acrophobic",
+      "Philophobic",
+      "Gemophobic"
+   ],
+   "Religion": {
+      "BirthAssigned":"Hinduism",
+      "Followed":"Atheism"
+   }
 }
