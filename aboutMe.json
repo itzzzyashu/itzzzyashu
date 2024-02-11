@@ -12,9 +12,9 @@ Phobic (Acro • Philo) | Phile (🐈‍⬛ • 🖤 • 🌘)/n
    "DateAndTimeOfBirth": {
       "minutes": 17,
       "hour": 13,
-      "day":" Tuesday",
+      "day": "Tuesday",
       "date": 28,
-      "month": 02,
+      "month": 2,
       "year": 2006,
    },
    "Address": "Turner Road, Subhash Nagar",
@@ -82,8 +82,8 @@ Phobic (Acro • Philo) | Phile (🐈‍⬛ • 🖤 • 🌘)/n
       ],
       "College": null,
       "MainSubject": "Science",
-      "SecondarySubject":"Computer Applications",
-      "Course":"BCA & MCA",
+      "SecondarySubject": "Computer Applications",
+      "Course": "BCA & MCA",
       "Professions": {
          "MainFocus": [
             "Computer Applications",
@@ -99,7 +99,8 @@ Phobic (Acro • Philo) | Phile (🐈‍⬛ • 🖤 • 🌘)/n
          "Chess",
          "Mathematics",
          "Journaling",
-         "Theory Writing, Studying",
+         "Theory Writing",
+         "Studying",
          "Literature",
          "Music",
       ],
