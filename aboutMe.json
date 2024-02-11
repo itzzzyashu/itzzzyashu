@@ -9,7 +9,9 @@ Phobic (Acro • Philo) | Phile (🐈‍⬛ • 🖤 • 🌘)/n
 🏳️‍🌈[♂ • ⚣ •💃🏻] | 🫂[♂/♀ • ❤️‍🔥 • 🧠]",
    "pfppic": "https://graph.org/file/ffcbb972a711603c10041.jpg",
    "website": "https://itzzzyashu.vercel.app",
-   "dateOfBirth": {
+   "DateAndTimeOfBirth": {
+      "minutes": 17,
+      "hour": 13,
       "day":" Tuesday",
       "date": 28,
       "month": 02,
@@ -82,7 +84,6 @@ Phobic (Acro • Philo) | Phile (🐈‍⬛ • 🖤 • 🌘)/n
       "MainSubject": "Science",
       "SecondarySubject":"Computer Applications",
       "Course":"BCA & MCA",
-      "Ambition":"Application Software Developer / Cyber Security",
       "Professions": {
          "MainFocus": [
             "Computer Applications",
