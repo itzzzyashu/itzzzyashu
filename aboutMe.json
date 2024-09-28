@@ -2,99 +2,101 @@
    "name": "Yash Virmani",
    "username": "itzzzyashu",
    "email": "itzzzyashu@gmail.com",
-   "about": "“What you perceive through the senses is an illusion which you're programmed to perceive as reality. 🥀”/n/n
-INFJ-T • EII-Ne | 4w5 • 459 • sp/sx/n
-Phobic (Acro • Philo) | Phile (🐈‍⬛ • 🖤 • 🌘)/n
-♒ • ♅ • Σ | 🦚(⚛ > ॐ)/n
-🏳️‍🌈[♂ • ⚣ •💃🏻] | 🫂[♂/♀ • ❤️‍🔥 • 🧠]",
-   "pfppic": "https://graph.org/file/ffcbb972a711603c10041.jpg",
-   "website": "https://itzzzyashu.vercel.app",
-   "DateAndTimeOfBirth": {
+   "password": "NaN",
+   "is_verified": true,
+   "is_admin": true,
+   "phone": {
+      "country_phone_code": 91,
+      "phone_number": "$long:NaN"
+   },
+   "about": "“What you perceive through the senses is an illusion which you're programmed to perceive as reality. 🥀”/n/nINFJ-T • EII-Ne | 4w5 • 459 • sp/sx/nPhobic (Acro • Philo) | Phile (🐈‍⬛ • 🖤 • 🌘)/n♒ • ♅ • Σ | 🦚(⚛ > ॐ)/n🏳️‍🌈[♂ • ⚣ •💃🏻] | 🫂[♂/♀ • ❤️‍🔥 • 🧠]",
+   "pfppic": "NaN",
+   "website": "https://rizzzcoding.vercel.app",
+   "date_and_time_of_birth": {
       "minutes": 17,
       "hour": 13,
       "day": "Tuesday",
       "date": 28,
       "month": 2,
-      "year": 2006,
+      "year": 2006
    },
-   "Address": "Turner Road, Subhash Nagar",
-   "Location": {
-      "District": "Dehradun",
-      "State": "Uttrakhand",
-      "Country": "India",
-      "AreaPinCode": 248002,
-      "CountryCode": "IN",
-      "CountryPhoneCode": 91
+   "address": "Street 7, C-20, Turner Road, Subhash Nagar, ISBT, Clement Town",
+   "location": {
+      "city_or_village": "Dehradun",
+      "state": "Uttrakhand",
+      "country": "India",
+      "area_pin_code": 248002,
+      "country_code": "IN"
    },
-   "PersonalityType": {
-      "MBTI": {
-         "Type": "INFJ",
-         "Socionics": "EII"
+   "personality_type": {
+      "mbti": {
+         "type": "INFJ",
+         "socionics": "EII"
       },
-      "Enneagram": {
-         "CoreType": 4,
-         "Wing": 5,
-         "InstinctualVarient": "SP/SX/SO",
-         "TriType": 459
-       },
-       "Astrology": "Aquarius"
-     },
-   "Gender": {
-      "Identity": {
-         "BirthAssigned": "Male",
-         "SelfAssigned": "Male"
+      "enneagram": {
+         "core_type": 4,
+         "wing": 5,
+         "instinctual_varient": "SP/SX/SO",
+         "tri_type": 459
       },
-      "Expression": "Feminine"
+      "zodiac": "Aquarius"
    },
-   "Orientation": {
-      "Sexual": "Homosexual",
-      "Romantic": "Biromantic",
-      "Intimacy": {
-         "Sexual": [
+   "gender": {
+      "identity": {
+         "birth_assigned": "Male",
+         "self_assigned": "Male"
+      },
+      "expression": "Feminine"
+   },
+   "orientation": {
+      "sexual": "Homosexual",
+      "romantic": "Biromantic",
+      "intimacy": {
+         "sexual": [
             "Demisexual",
             "Sapiosexual",
             "Hypersexual"
          ],
-         "Romantic": [
+         "romantic": [
             "Demiromantic",
             "Sapioromantic"
          ]
       }
    },
-   "Phile": [
+   "phile": [
       "Ailurophile",
       "Selenophile",
       "Nyctophile"
    ],
-   "Phobic": [
+   "phobic": [
       "Acrophobic",
       "Philophobic",
       "Gemophobic"
    ],
-   "Religion": {
-      "BirthAssigned": "Hinduism",
-      "Followed": "Atheism"
+   "religion": {
+      "birth_assigned": "Hinduism",
+      "followed": "Atheism"
    },
-   "Education": {
-      "School": [
+   "education": {
+      "school": [
          "Lovedale Academy",
          "Shree Badrinath Inter College (SBN Academy)"
       ],
-      "College": null,
-      "MainSubject": "Science",
-      "SecondarySubject": "Computer Applications",
-      "Course": "BCA & MCA",
-      "Professions": {
-         "MainFocus": [
+      "college": null,
+      "main_subject": "Science",
+      "secondary_subject": "Computer Applications",
+      "course": "BCA & MCA",
+      "professions": {
+         "main_shift": [
             "Computer Applications",
             "Cyber Security"
-          ],
-          "SecondShift": [
+         ],
+         "second_shift": [
             "Psychotherapist",
             "Psychiatrist"
-          ],
-      }
-      "Hobbies": [
+         ]
+      },
+      "hobbies": [
          "Programming",
          "Chess",
          "Mathematics",
@@ -102,7 +104,7 @@ Phobic (Acro • Philo) | Phile (🐈‍⬛ • 🖤 • 🌘)/n
          "Theory Writing",
          "Studying",
          "Literature",
-         "Music",
-      ],
+         "Music"
+      ]
    }
 }
